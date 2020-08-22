@@ -1,0 +1,12 @@
+[
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 7
+    },
+    "item": "Item name",
+    "category": "MEAL",
+    "cost": 5.0
+  }
+]

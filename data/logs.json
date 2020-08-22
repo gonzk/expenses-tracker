@@ -1,0 +1,92 @@
+[
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 14
+    },
+    "item": "bubble tea",
+    "category": "MEAL",
+    "cost": 6.75
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 14
+    },
+    "item": "phone bill",
+    "category": "BILLS",
+    "cost": 45.0
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 9
+    },
+    "item": "bus",
+    "category": "TRANSPORTATION",
+    "cost": 3.0
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 8
+    },
+    "item": "clothes",
+    "category": "SHOPPING",
+    "cost": 55.0
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 8
+    },
+    "item": "Spotify",
+    "category": "ENTERTAINMENT",
+    "cost": 10.0
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 1
+    },
+    "item": "ice cream",
+    "category": "MEAL",
+    "cost": 7.5
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 1
+    },
+    "item": "gas",
+    "category": "TRAVEL",
+    "cost": 50.0
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 7,
+      "day": 25
+    },
+    "item": "MacBook",
+    "category": "TECH",
+    "cost": 1795.0
+  },
+  {
+    "date": {
+      "year": 2020,
+      "month": 7,
+      "day": 11
+    },
+    "item": "groceries",
+    "category": "GROCERIES",
+    "cost": 80.0
+  }
+]
